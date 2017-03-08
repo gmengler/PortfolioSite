@@ -1,16 +1,3 @@
-ul {
-    list-style: none;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    padding: 25px 50px;
-}
-
 /* navbar */
 .navbar-custom {
     background-color: #13abf7;
@@ -27,4 +14,12 @@ li a {
 
 .navbar-custom .navbar-nav > li > a:hover, .navbar-custom .navbar-nav > li > a:focus {
 color: black;  /*Sets the text hover color on navbar*/
+}
+
+/*body {
+    background-image: url("background.jpg");
+}*/
+
+p {
+  font-size: 1.25em;
 }
