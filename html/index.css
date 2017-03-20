@@ -1,10 +1,11 @@
 /* navbar */
+
 .navbar-custom {
     background-color: #13abf7;
-    border-radius:0;
+    border-radius: 0;
 }
 
-.navbar-custom .navbar-nav > li > a {
+.navbar-custom .navbar-nav>li>a {
     color: white;
 }
 
@@ -12,14 +13,16 @@
     color: white;
 }
 
-.navbar-custom .navbar-nav > li > a:hover, .navbar-custom .navbar-nav > li > a:focus {
-color: black;  /*Sets the text hover color on navbar*/
+.navbar-custom .navbar-nav>li>a:hover, .navbar-custom .navbar-nav>li>a:focus {
+    color: black;
+    /*Sets the text hover color on navbar*/
 }
 
-/*body {
-    background-image: url("background.jpg");
-}*/
-
 p {
-  font-size: 1.25em;
+    font-size: 1.25em;
+}
+
+img {
+  max-width: 300px;
+  height: auto;
 }
