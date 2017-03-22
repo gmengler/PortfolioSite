@@ -18,8 +18,16 @@
     /*Sets the text hover color on navbar*/
 }
 
+h1 {
+  text-align: center;
+}
+
 p {
     font-size: 1.25em;
+}
+
+.justified {
+  
 }
 
 .projectimg {
@@ -35,4 +43,8 @@ img.center {
 
 .hover:hover {
     opacity: 0.7;
+}
+
+.projectgroup {
+
 }
