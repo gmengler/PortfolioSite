@@ -26,10 +26,6 @@ p {
     font-size: 1.25em;
 }
 
-.justified {
-  
-}
-
 .projectimg {
     width: 300px;
     height: auto;
@@ -39,6 +35,9 @@ img.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 75px;
+  height: auto;
+  padding-top: 5%;
 }
 
 .hover:hover {
@@ -46,5 +45,22 @@ img.center {
 }
 
 .projectgroup {
+  font-family: 'Lato', sans-serif;
+}
 
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.email {
+   text-align: center;
+   padding-top: 5%;
+   text-decoration: none;
 }
