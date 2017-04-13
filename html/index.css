@@ -1,7 +1,8 @@
 /* navbar */
 
 .navbar-custom {
-    background-color: #13abf7;
+    /*background-color: #13abf7;*/
+    background-color: rgb(74, 136, 148);
     border-radius: 0;
 }
 
@@ -37,7 +38,6 @@ img.center {
   margin-right: auto;
   width: 75px;
   height: auto;
-  padding-top: 5%;
 }
 
 .hover:hover {
@@ -62,5 +62,4 @@ div.desc {
 .email {
    text-align: center;
    padding-top: 5%;
-   text-decoration: none;
 }
