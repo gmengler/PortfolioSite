@@ -32,6 +32,10 @@ p {
     height: auto;
 }
 
+.prpanel {
+  margin-top: 5px;
+}
+
 img.center {
   display: block;
   margin-left: auto;
