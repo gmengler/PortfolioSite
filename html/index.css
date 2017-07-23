@@ -28,7 +28,7 @@ p {
 }
 
 .projectimg {
-    width: 300px;
+    width: 400px;
     height: auto;
 }
 
@@ -62,4 +62,8 @@ div.desc {
 .email {
    text-align: center;
    padding-top: 5%;
+}
+
+.projdesc {
+  font-size: 14px;
 }
