@@ -1,0 +1,3 @@
+[submodule "html/RandomQuoteGenerator"]
+	path = html/RandomQuoteGenerator
+	url = https://github.com/gmengler/RandomQuoteGenerator.git
